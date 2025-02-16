@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sandaru Malshan</h1>
 <h3 align="center">Undergraduate Computer Science | Data Science & ML Enthusiast 🤖| Full Stack Developer 💻| Lifelong Learner📚| Sri Lanka</h3>
 
@@ -5,14 +6,28 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandaru04&label=Profile%20views&color=0e75b6&style=flat" alt="sandaru04" /> </p>
 
 ---
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 - 🔭 I’m currently working on **Sinhala-note-summarization-application**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **sadmal04that@gmail.com**
----
+</td>
+<td width="50%" align="center">
 
+  <img align="center" alt="Coding" width="450" src="https://github.com/Sandaru04/OOP-project-Real-timeTicketManagementSystem/blob/main/A.I-2.gif">
+
+  
+  </td>
+</tr>
+</table>
+
+
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sandaru-malshan-b20a3b2b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandaru-malshan-b20a3b2b2" height="30" width="40" /></a>
