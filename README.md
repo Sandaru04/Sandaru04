@@ -30,7 +30,7 @@
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandaru04&theme=dark&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandaru04&theme=dark&show_icons=true" />
         <br><br>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Sandaru04&theme=dark&hide_border=false"/>
       </td>
