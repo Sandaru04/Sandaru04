@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/Sandaru04/OOP-project-Real-timeTicketManagementSystem/blob/main/A.I-2.gif">
+  <img align="center" alt="Coding" width="350" src="https://github.com/Sandaru04/OOP-project-Real-timeTicketManagementSystem/blob/main/A.I-2.gif">
 
   
   </td>
